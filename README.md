@@ -1,1 +1,1 @@
-# 01-github-explorer
+Primeira Semana IGNITE Rocketseat
